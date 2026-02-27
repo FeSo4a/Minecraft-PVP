@@ -139,9 +139,10 @@ execute as @a at @s if \
 > 巅峰段位输了-4巅峰积分，胜利+5巅峰积分  
 > 传奇巅峰段位输了-8巅峰积分，胜利+5巅峰积分  
 
-## 制作人员名单（除ningmeng_CC为服主外，其余不分先后）
-
-- ningmeng_CC
+## 制作人员名单（除ning_mengCC为作者外，其余不分先后）
+作者：  
+- ning_mengCC
+特别鸣谢：  
 - NaCl__（FeSo4a）
 - Yan_zou
 - Qi_Yi_Fish
