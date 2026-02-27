@@ -141,7 +141,7 @@ execute as @a at @s if \
 
 ## 制作人员名单（除ning_mengCC为作者外，其余不分先后）
 作者：  
-- ning_mengCC
+- ning_mengCC  
 特别鸣谢：  
 - NaCl__（FeSo4a）
 - Yan_zou
