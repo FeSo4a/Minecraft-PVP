@@ -52,7 +52,7 @@ execute as @a at @s if \
 execute as @a at @s if \
     score @s zhiye matches <职业id> if \
         score @s jn1time matches 329..361 run \
-            tellraw @s [{"text":"技能X:吸血冷却时间结束","color":"yellow"}]
+            tellraw @s [{"text":"技能X:<技能名>冷却时间结束","color":"yellow"}]
 
 # 将技能冷却计时器设置为602以防止重复触发
 execute as @a at @s if \
@@ -61,3 +61,14 @@ execute as @a at @s if \
             scoreboard players set @s jn1time 362
 ~~~
 其中，**329..361**分别是技能**冷却时间乘20后分别加减1**，重置必须**重置为冷却时间*20+2**
+
+> IMPORTANT  
+> 每个职业只能有3种技能  
+> 每个技能必须含有粒子和声效
+
+### 职业id
+
+以下是我们目前的所有职业：
+|职业名称|类别|职业id|
+|-|-|-|
+||||
