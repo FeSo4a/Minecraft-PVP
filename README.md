@@ -138,3 +138,12 @@ execute as @a at @s if \
 > 排位段位输了+1排位分，胜利+5排位分  
 > 巅峰段位输了-4巅峰积分，胜利+5巅峰积分  
 > 传奇巅峰段位输了-8巅峰积分，胜利+5巅峰积分  
+
+## 制作人员名单（除ningmeng_CC为服主外，其余不分先后）
+
+- ningmeng_CC
+- NaCl__（FeSo4a）
+- Yan_zou
+- Qi_Yi_Fish
+- Dastraie
+- 陆日呦
